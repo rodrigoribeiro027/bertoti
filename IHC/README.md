@@ -1,17 +1,10 @@
 
 ### Avaliação Heurística & WCAG
 
-### Previa - Youtube
+### Design minimalista
+#tópico 3.2.1
 
-#6.5 Texto exibido visualmente
+<p>Descrição: <br>a inteção principal é realzar uma pesquisa e, portanto, o foco da página vai unicamente para barra de pesquisa.</p>
 
-<p>Descrição</p>
+<img alt="Google" height="450em" src="https://i.imgur.com/cJVlwbo.png">
 
-<img alt="Youtube" height="450em" src="https://i.imgur.com/uMdds92.png">
-
-### Previa - Leilões
-
-#6.5 Texto exibido visualmente
-
-<p>Descrição</p>
-<img alt="Leilões" height="450em" src="https://i.imgur.com/EKTTolN.png">
