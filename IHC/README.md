@@ -15,7 +15,7 @@
 
 <p>Descrição: <br>os dados inseridos pelo usuário são verificados quanto a erros de entrada e o usuário tem a oportunidade de corrigi-los.</p>
 
-<img alt="" height="450em" src="https://i.imgur.com/VabLtw8.png">
+<img alt="" height="450em" src="https://i.imgur.com/iTUb4pI.png">
 
 </details>
 
@@ -27,6 +27,41 @@
 <img alt="Gmail" height="450em" src="https://i.imgur.com/1wVaCt5.png">
 
 </details>
+
+<details>
+   <summary><b>Flexibilidade e eficiência de uso</b></summary>
+
+<p>Descrição:<br> Dentro do Trello as tarefas online com base em colunas quando você está com o foco em um cartão você pode utilizar o mouse para navegar em outros cartões, as teclas direcionais (setas pra cima e pra baixo)<br>
+<br>
+<img alt="" height="450em" src="https://i.imgur.com/E8Z8NcJ.png">
+</details>
+
+<details>
+   <summary><b> Visibilidade do status do sistema </b></summary>
+
+<p>Descrição:<br>O Youtube, por exemplo, disponibiliza uma barra lateral informando qual vídeo estamos vendo, quais já foram assistidos e quais são os próximos da lista.  <br>
+<br>
+<img alt="" height="450em" src="https://i.imgur.com/dhq6SUr.png">
+</details>
+
+<details>
+   <summary><b> Consistência e padrões </b></summary>
+
+<p>Descrição:<br> Durante a interação os usuários não devem ter dúvidas sobre o significado das palavras, ícones ou símbolos utilizados.
+Portanto, é fundamental que uma interface siga as convenções da plataforma, mantendo padrões de interação   <br>
+<br>
+<img alt="" height="450em" src="https://i.imgur.com/UNFYlTT.png">
+</details>
+
+<details>
+   <summary><b> Ajuda e documentação </b></summary>
+
+<p>Descrição:<br> Uma solução bastante popular são os FAQs, nos quais são compiladas as principais e mais frequentes dúvidas e suas respectivas soluções.   <br>
+<br>
+<img alt="" height="450em" src="https://i.imgur.com/7OX1qcP.png">
+</details>
+
+
 
 ## Exemplos de Erros
 
