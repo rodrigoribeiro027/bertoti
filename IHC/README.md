@@ -29,7 +29,7 @@
 </details>
 
 <details>
-   <summary><b>Flexibilidade e eficiência de uso</b></summary>
+   <summary><b>3.2.4 Flexibilidade e eficiência de uso</b></summary>
 
 <p>Descrição:<br> Dentro do Trello as tarefas online com base em colunas quando você está com o foco em um cartão você pode utilizar o mouse para navegar em outros cartões, as teclas direcionais (setas pra cima e pra baixo)<br>
 <br>
@@ -37,7 +37,7 @@
 </details>
 
 <details>
-   <summary><b> Visibilidade do status do sistema </b></summary>
+   <summary><b>1.4.13 Visibilidade do status do sistema </b></summary>
 
 <p>Descrição:<br>O Youtube, por exemplo, disponibiliza uma barra lateral informando qual vídeo estamos vendo, quais já foram assistidos e quais são os próximos da lista.  <br>
 <br>
@@ -45,7 +45,7 @@
 </details>
 
 <details>
-   <summary><b> Consistência e padrões </b></summary>
+   <summary><b>3.2.3 Consistência e padrões </b></summary>
 
 <p>Descrição:<br> Durante a interação os usuários não devem ter dúvidas sobre o significado das palavras, ícones ou símbolos utilizados.
 Portanto, é fundamental que uma interface siga as convenções da plataforma, mantendo padrões de interação   <br>
@@ -54,7 +54,7 @@ Portanto, é fundamental que uma interface siga as convenções da plataforma, m
 </details>
 
 <details>
-   <summary><b> Ajuda e documentação </b></summary>
+   <summary><b>3.3.5 Ajuda e documentação </b></summary>
 
 <p>Descrição:<br> Uma solução bastante popular são os FAQs, nos quais são compiladas as principais e mais frequentes dúvidas e suas respectivas soluções.   <br>
 <br>
@@ -82,3 +82,24 @@ Portanto, é fundamental que uma interface siga as convenções da plataforma, m
 <img alt="Siga" height="450em" src="https://i.imgur.com/9qyUHZj.png">
 
 </details>
+
+
+<details>
+  <summary><b>1.4.8 Apresentação visual </b></summary>
+
+<p>Descrição:<br>O site Facebook tem uma uma disparidade muito grande quando enviamos um video do Mobile Para ser visto em dispositivos Desktop.</p>
+
+<img alt="Siga" height="450em" src="https://i.imgur.com/vUPF0z4.png">
+
+</details>
+<details>
+  <summary><b>2.4 Navegavel</b></summary>
+
+<p>Descrição:<br>O site Apresenta Falha em colocar muitas Propagandas ao Usuario que impede de Realizar a Visualização do conteudo.</p>
+
+<img alt="Siga" height="450em" src="https://i.imgur.com/UjnGrcY.png">
+
+</details>
+
+
+
